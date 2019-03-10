@@ -34,6 +34,7 @@
     <Reference Include="System" />
     <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -42,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="SessionHelper.cs" />
     <Compile Include="DbHelpers\DataReaderConverter.cs" />
     <Compile Include="DbHelpers\DataReaderExtensions.cs" />
     <Compile Include="DbHelpers\DbConvert.cs" />
