@@ -8,9 +8,8 @@ using System.Linq;
 using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
-using KievSoft.HelpersLib.DbHelpers;
 
-namespace KievSoft.HelpersLib
+namespace KievSoft.HelpersLib.DbHelpers
 {
     public class DbHelper
     {

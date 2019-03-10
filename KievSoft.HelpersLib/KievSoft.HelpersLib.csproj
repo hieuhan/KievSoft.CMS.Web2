@@ -43,10 +43,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
-    <Compile Include="DbHelper.cs" />
     <Compile Include="DbHelpers\DataReaderConverter.cs" />
     <Compile Include="DbHelpers\DataReaderExtensions.cs" />
     <Compile Include="DbHelpers\DbConvert.cs" />
+    <Compile Include="DbHelpers\DbHelper.cs" />
     <Compile Include="DbHelpers\RawValue.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
